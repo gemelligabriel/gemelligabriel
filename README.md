@@ -1,4 +1,4 @@
-## Olá!
+## E aí, como vai?
 
 Meu nome é Gabriel Gemelli Bonadiman e sou um desenvolvedor júnior apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 
