@@ -1,7 +1,5 @@
 ## Hey!
 
-English:
-
 My name is Gabriel Gemelli Bonadiman, and I am a junior software developer passionate about technology, problem-solving, and continuous learning.
 
 I enjoy building modern web applications, exploring new technologies, and constantly improving my frontend and backend development skills.
@@ -9,8 +7,6 @@ I enjoy building modern web applications, exploring new technologies, and consta
 I am currently pursuing a Bachelor's degree in Software Engineering at PUCRS and bring an international perspective after completing a one-year exchange program in the United States during high school. I am fluent in Portuguese, English, and Spanish.
 
 🌐 Portfolio: https://portfolio-beta-lovat-51.vercel.app
-
-Português:
 
 Meu nome é Gabriel Gemelli Bonadiman e sou um desenvolvedor júnior apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 
